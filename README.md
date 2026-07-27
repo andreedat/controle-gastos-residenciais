@@ -56,8 +56,3 @@ receita) — validado tanto na API quanto no front.
 
 **Totais**: lista cada pessoa com total de receita, total de despesa e
 saldo, e no final soma tudo.
-
-## Obs
-
-Não tive como compilar/rodar aqui pra testar 100%, então se der algum erro
-de build é só avisar que eu ajusto.
