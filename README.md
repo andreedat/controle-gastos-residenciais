@@ -12,12 +12,6 @@ Aplicação full-stack para controlar os gastos de uma casa: cadastro de pessoas
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-## 📸 Screenshots
-
-| Pessoas | Transações | Totais |
-| :---: | :---: | :---: |
-| ![Tela de pessoas](docs/screenshots/pessoas.png) | ![Tela de transações](docs/screenshots/transacoes.png) | ![Tela de totais](docs/screenshots/totais.png) |
-
 ## ✨ Funcionalidades
 
 **Pessoas**
